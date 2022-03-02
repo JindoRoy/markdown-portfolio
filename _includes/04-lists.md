@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+-Myself Jindo :smile:
+-My project
+  -Markdown :tada:
+  -Create list
